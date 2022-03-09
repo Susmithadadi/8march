@@ -1,0 +1,10 @@
+m=input("enter string1:")
+n=input("enter string2 ")
+print(m+n)
+
+enter string1:
+susmi
+enter string2 
+tha
+susmitha
+
